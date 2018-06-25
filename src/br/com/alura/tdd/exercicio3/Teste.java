@@ -10,10 +10,6 @@ public class Teste {
 		Compra produto = new Compra(5000.0, "Sao Paulo");
 		
 		calculadora.calcula(produto);
-		
-		
-		
-		
 	}
 	
 }
